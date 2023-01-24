@@ -4,13 +4,13 @@ Kodlamasında Flutter web kullandığım responsive tasarıma sahip bir cv proje
 <br>
 -Mobil, bilgisayar ve tabletler için ayrı görünüme sahiptir.
 <br>
--Uygulama içerisinde;
-  1)Drawer içerisinde sosyal medya hesaplarına gitmeyi sağlayan buttonlar, cv indirme butonu, cv sahibinin fotoğrafı ve ad-soyad bilgileri bulunuyor.
-  2)Ad-Soyad ve pozisyonun yer aldığı ilk sayfa mevcut.
-  3)Cv sahibinin kendini tanıttığı ve iletişim bilgilerini verdiği bir alan bulunuyor.
-  4)Github adresinde bulunan projelerinin çekildiği bir alan bulunuyor. Github'da bulunan projeleri çekmek için api kullanıldı.
-  5)Eğitim bilgilerinin ve yeteneklerinin bulunduğu bir alan içeriyor.
-  6)Deneyimlerinin bulunduğu bir alan içeriyor.
+-Uygulama içerisinde;<br>
+  1)Drawer içerisinde sosyal medya hesaplarına gitmeyi sağlayan buttonlar, cv indirme butonu, cv sahibinin fotoğrafı ve ad-soyad bilgileri bulunuyor.<br>
+  2)Ad-Soyad ve pozisyonun yer aldığı ilk sayfa mevcut.<br>
+  3)Cv sahibinin kendini tanıttığı ve iletişim bilgilerini verdiği bir alan bulunuyor.<br>
+  4)Github adresinde bulunan projelerinin çekildiği bir alan bulunuyor. Github'da bulunan projeleri çekmek için api kullanıldı.<br>
+  5)Eğitim bilgilerinin ve yeteneklerinin bulunduğu bir alan içeriyor.<br>
+  6)Deneyimlerinin bulunduğu bir alan içeriyor.<br>
   
 <br>
 <hr>
